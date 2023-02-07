@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[195],{2841:function(e,n,t){t.r(n),t.d(n,{default:function(){return s}});var u=t(7294),i=t(6775);function s(){return u.createElement(i.l_,{to:"/Helpdeskinfo-Dokumentation/docs/Einleitung"})}}}]);
